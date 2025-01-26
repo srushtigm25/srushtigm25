@@ -14,17 +14,17 @@
 
 ### 👩‍💻 What I Do
 
-I specialize in **Machine Learning**, **Data Science**, and **Software Development**.
+I specialize in **Machine Learning**, **Data Science** and **Software Development**.
 
 ### 🧑‍🎓 About Me
 
 🎓 I’m a CS graduate student at **California State University, Sacramento**, passionate about transforming data into actionable insights.  
-💻 My experience spans **Data Engineering**, **Machine Learning**, and **Product Engineering**, where I’ve built:  
+💻 My experience spans **Data Engineering**, **Machine Learning** and **Product Engineering**, where I’ve built:  
 - 🚀 Scalable ETL pipelines.  
 - 🛠️ Optimized SQL queries for high performance.  
 - 🤖 Implemented AI-driven forecasting models.  
 
-👥 Beyond technical expertise, I enjoy collaborating with teams, mentoring, and creating impactful solutions for complex problems.
+👥 Beyond technical expertise, I enjoy collaborating with teams, mentoring and creating impactful solutions for complex problems.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
